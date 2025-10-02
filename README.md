@@ -18,5 +18,5 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 I used the application NOTION to make the plan and decided what should do when building each layer.
  [Data Warehouse planning using NOTION](https://www.notion.so/Data-Warehouse-Project-27eabb31efc380ec8878fa400fc6d609?source=copy_link).
 
-![Notion screenshot](./pictures/architecture.png "San Juan Mountains")
+![Notion screenshot](./pictures/NOTION planning tool.png "Screenshot for notion")
 
