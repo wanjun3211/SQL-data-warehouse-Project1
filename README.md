@@ -24,9 +24,10 @@ I used the application NOTION to make the plan and decided what should do when b
 ## Bronze layer
 
 1. Created Bronze Tables    
-six  tables were created, and the number is same as those from the original source; The corresponding scripts could be referenced the file named ddl_bronze.sql in the bronze folder;  
+Six tables were created, and the number is same as those from the original source; The corresponding scripts could be referenced the file named ddl_bronze.sql in the bronze folder;  
 
 2. Load the data from original source, two csv files, including six tables loaded without change.
 
-
 ## Silver layer
+1. Created Silver Tables
+Six tables were created, and the number is same as the same like Bronze layer. But the different from Bronze layer is some extra column dwh_create_date was created for later use.
