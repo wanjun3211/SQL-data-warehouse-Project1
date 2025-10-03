@@ -28,6 +28,7 @@ Six tables were created, and the number is same as those from the original sourc
 
 2. Load the data from original source, two csv files, including six tables loaded without change.
 
-## Silver layer
-1. Created Silver Tables
-Six tables were created, and the number is same as the same like Bronze layer. But the different from Bronze layer is some extra column dwh_create_date was created for later use.
+
+2. Cleaning and transforming data
+I have to check the data information and relationship before loading the data. For example some data contained space in the Bronze layer, so need to use trim function to get rid of it. Some entries contained the duplicate items and I had to tell which entry should be left and which one should be deleted. For the relationship part, I used the application called draw,io to make their relationship to clear before cleaning. 
+
