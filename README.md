@@ -20,3 +20,10 @@ I used the application NOTION to make the plan and decided what should do when b
 
 ![Notion screenshot](./pictures/NOTIONplanning.png "Screenshot for notion")
 
+
+## Bronze layer
+
+1. Created Bronze Tables    
+six  tables were created, and the number is same as those from the original source; The corresponding scripts could be referenced the file named ddl_bronze.sql in the bronze folder;  
+
+2. Load the data from original source, two csv files, including six tables loaded without change.
